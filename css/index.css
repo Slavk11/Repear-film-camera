@@ -440,6 +440,7 @@ body {
   line-height: 40px;
   color: #8E8E98;
   margin-bottom: 60px;
+  max-width: 1120px;
 }
 
 .footer {
@@ -467,4 +468,13 @@ body {
   .main {
     margin-left: 30px;
   }
+}
+.user-form__copyright {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: right;
+  color: #47474C;
 }
