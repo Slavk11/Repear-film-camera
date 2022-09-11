@@ -1,0 +1,27 @@
+.information__table-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  color: #8e8e98;
+  max-width: 470px;
+  height: 120px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 1024px) {
+  .information__table-text {
+    max-width: 568px;
+  }
+}
+@media (max-width: 665px) {
+  .information__table-text {
+    max-width: 240px;
+    max-height: 36px;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+  }
+}

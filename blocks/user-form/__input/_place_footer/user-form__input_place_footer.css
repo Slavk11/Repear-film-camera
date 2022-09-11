@@ -1,0 +1,10 @@
+@media (max-width: 1024px) {
+  .user-form__input_place_footer {
+    width: 348px;
+  }
+}
+@media (max-width: 665px) {
+  .user-form__input_place_footer {
+    width: 229px;
+  }
+}

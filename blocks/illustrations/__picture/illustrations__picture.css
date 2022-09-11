@@ -1,0 +1,6 @@
+.illustrations__picture {
+  border-radius: 10px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  max-width: 100%;
+}

@@ -1,0 +1,25 @@
+.header__subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 70px;
+  color: #ffffff;
+  margin: 0 0 230px 0;
+}
+
+@media (max-width: 1150px) {
+  .header__subtitle {
+    max-width: 644px;
+    font-size: 50px;
+    line-height: 60px;
+    margin-bottom: 470px;
+  }
+}
+@media (max-width: 665px) {
+  .header__subtitle {
+    font-size: 30px;
+    line-height: 38px;
+    max-width: 218px;
+    margin-bottom: 260px;
+  }
+}

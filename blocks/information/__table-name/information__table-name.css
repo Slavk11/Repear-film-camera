@@ -1,0 +1,17 @@
+.information__table-name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+  color: #ffffff;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+@media (max-width: 665px) {
+  .information__table-name {
+    margin: 0 0 28px 20px;
+    font-size: 24px;
+    line-height: 32px;
+  }
+}

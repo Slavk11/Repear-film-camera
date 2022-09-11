@@ -1,0 +1,23 @@
+.full-varanty__title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  color: #ffffff;
+  margin: 0 0 60px 0;
+}
+
+@media (max-width: 1024px) {
+  .full-varanty__title {
+    margin-left: 60px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+@media (max-width: 665px) {
+  .full-varanty__title {
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0 0 40px 20px;
+  }
+}

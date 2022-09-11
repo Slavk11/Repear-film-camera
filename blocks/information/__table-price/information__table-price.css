@@ -1,0 +1,16 @@
+.information__table-price {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #25e197;
+  margin-left: 40px;
+}
+
+@media (max-width: 665px) {
+  .information__table-price {
+    margin: 0 0 20px 20px;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}

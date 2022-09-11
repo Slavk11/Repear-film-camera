@@ -1,0 +1,10 @@
+.full-varanty__table {
+  height: 153px;
+  background: #1c1c1e;
+  border-radius: 10px;
+}
+
+.full-varanty__table:hover {
+  background: #232327;
+  cursor: pointer;
+}

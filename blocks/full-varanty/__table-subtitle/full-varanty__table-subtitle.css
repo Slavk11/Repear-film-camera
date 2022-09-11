@@ -1,0 +1,25 @@
+.full-varanty__table-subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  color: #8e8e98;
+  margin: 38px 0 0 20px;
+  width: 225px;
+  height: 57px;
+}
+
+@media (max-width: 1150px) {
+  .full-varanty__table-subtitle {
+    width: 274px;
+  }
+}
+@media (max-width: 665px) {
+  .full-varanty__table-subtitle {
+    margin-top: 36px;
+    font-size: 12px;
+    line-height: 18px;
+    width: 240px;
+    height: 54px;
+  }
+}

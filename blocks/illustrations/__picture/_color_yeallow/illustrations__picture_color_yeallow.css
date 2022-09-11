@@ -1,0 +1,9 @@
+.illustrations__picture_color_yeallow {
+  background: #ffd233;
+}
+
+@media (max-width: 665px) {
+  .illustrations__picture_color_yeallow {
+    height: 67px;
+  }
+}

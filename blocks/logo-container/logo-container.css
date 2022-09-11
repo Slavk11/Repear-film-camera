@@ -1,0 +1,21 @@
+.logo-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1150px) {
+  .logo-container {
+    margin-bottom: 70px;
+  }
+}
+@media (max-width: 665px) {
+  .logo-container {
+    margin-bottom: 60px;
+  }
+}

@@ -1,0 +1,35 @@
+.user-form__input {
+  background: rgba(142, 142, 152, 0.2);
+  border-radius: 8px 0px 0px 8px;
+  border: 0;
+  width: 348px;
+  max-height: 50px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.375px;
+  color: #ffffff;
+  outline: none;
+}
+
+.user-form__input:hover {
+  background: rgba(142, 142, 152, 0.3);
+  cursor: pointer;
+}
+
+.user-form__input:focus {
+  background: rgba(142, 142, 152, 0.3);
+}
+
+@media (max-width: 1150px) {
+  .user-form__input {
+    width: 427px;
+  }
+}
+@media (max-width: 665px) {
+  .user-form__input {
+    width: 229px;
+  }
+}

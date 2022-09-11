@@ -1,0 +1,9 @@
+.illustrations__picture_color_green {
+  background: #25e197;
+}
+
+@media (max-width: 665px) {
+  .illustrations__picture_color_green {
+    height: 124px;
+  }
+}

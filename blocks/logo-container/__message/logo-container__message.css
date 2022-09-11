@@ -1,0 +1,17 @@
+.logo-container__message {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #000000;
+  background: #25e197;
+  width: 99px;
+  height: 20px;
+  border-radius: 4px;
+  margin: 0;
+  border: 0;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+}

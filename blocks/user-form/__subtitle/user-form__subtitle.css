@@ -1,0 +1,28 @@
+.user-form__subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #47474c;
+  margin: 12px 0 0 10px;
+}
+
+@media (max-width: 1024px) {
+  .user-form__subtitle {
+    margin-top: 10px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+}
+@media (max-width: 665px) {
+  .user-form__subtitle {
+    text-align: center;
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 320px) {
+  .user-form__subtitle {
+    text-align: start;
+    margin-left: 0;
+  }
+}

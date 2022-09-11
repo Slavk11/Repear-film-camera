@@ -1,0 +1,29 @@
+.main__description-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  color: #8e8e98;
+  max-width: 1120px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1024px) {
+  .main__description-text {
+    margin-left: 60px;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 648px;
+  }
+}
+@media (max-width: 665px) {
+  .main__description-text {
+    margin-left: 20px;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 0;
+    max-width: 280px;
+  }
+}

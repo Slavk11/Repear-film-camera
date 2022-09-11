@@ -1,0 +1,16 @@
+.support-us {
+  margin-bottom: 240px;
+}
+
+@media (max-width: 1024px) {
+  .support-us {
+    margin-left: 60px;
+    margin-bottom: 210px;
+  }
+}
+@media (max-width: 665px) {
+  .support-us {
+    margin-left: 20px;
+    margin-bottom: 180px;
+  }
+}

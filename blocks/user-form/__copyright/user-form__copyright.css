@@ -1,0 +1,25 @@
+.user-form__copyright {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: right;
+  color: #47474c;
+  margin: 0;
+  -ms-flex-item-align: end;
+  -ms-grid-row-align: end;
+  align-self: end;
+}
+
+@media (max-width: 1024px) {
+  .user-form__copyright {
+    -ms-flex-item-align: start;
+    -ms-grid-row-align: start;
+    align-self: start;
+  }
+}
+@media (max-width: 665px) {
+  .user-form__copyright {
+    margin-top: 40px;
+  }
+}
