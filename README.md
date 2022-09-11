@@ -9,6 +9,6 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/G3UWFlQmNtNs67751YiDH2/Month-of-Landings_external-link?node-id=2%3A1692)
 
-* [Ссылка на проект в Github](https://slavk11.github.io/mesto-project/)
+* [Ссылка на проект в Github](https://slavk11.github.io/Repear-film-camera/)
 
 
