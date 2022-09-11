@@ -2,7 +2,7 @@
   background: rgba(142, 142, 152, 0.2);
   border-radius: 8px 0px 0px 8px;
   border: 0;
-  width: 348px;
+  width: 332px;
   max-height: 50px;
   font-family: "Roboto";
   font-style: normal;
@@ -12,6 +12,7 @@
   letter-spacing: 0.375px;
   color: #ffffff;
   outline: none;
+  padding-left: 16px;
 }
 
 .user-form__input:hover {
