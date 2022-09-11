@@ -26,11 +26,11 @@
 
 @media (max-width: 1150px) {
   .user-form__input {
-    width: 427px;
+    width: 411px;
   }
 }
 @media (max-width: 665px) {
   .user-form__input {
-    width: 229px;
+    width: 213px;
   }
 }
