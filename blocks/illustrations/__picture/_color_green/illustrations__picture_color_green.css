@@ -2,7 +2,7 @@
   background: #25e197;
 }
 
-@media (max-width: 665px) {
+@media (max-width: 579px) {
   .illustrations__picture_color_green {
     height: 124px;
   }

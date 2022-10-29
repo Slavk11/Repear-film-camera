@@ -8,6 +8,14 @@
   column-gap: 20px;
   margin-bottom: 20px;
   overflow: hidden;
+  justify-content: center;
+}
+
+@media (min-width: 1025px) and (max-width: 1414px){
+  .illustrations__container {
+    -ms-grid-columns: 448px 448px;
+    grid-template-columns: 448px 448px;
+  }
 }
 
 @media (max-width: 1024px) {
