@@ -10,6 +10,13 @@
   overflow: hidden;
 }
 
+@media (min-width: 1025px) and (max-width: 1414px){
+  .illustrations__container_type_second{
+    -ms-grid-columns: 448px 448px;
+    grid-template-columns: 448px 448px;
+  }
+}
+
 @media (max-width: 1024px) {
   .illustrations__container_type_second {
     -ms-grid-columns: 173px 455px;

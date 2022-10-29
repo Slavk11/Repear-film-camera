@@ -12,7 +12,7 @@
   margin-bottom: 60px;
 }
 
-@media (max-width: 1150px) {
+@media (max-width: 1310px) {
   .full-varanty__container {
     -ms-grid-columns: 314px 20px 314px;
     grid-template-columns: repeat(2, 314px);
